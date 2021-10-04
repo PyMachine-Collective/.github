@@ -13,7 +13,7 @@ if you look it up on the internet it’ll say that it’s algorithms that can le
 
 ## Resources
   * [types of machine learning](https://towardsdatascience.com/what-are-the-types-of-machine-learning-e2b9e5d1756f)
-  * [Computer Vision](#python-computer-vision)
+<!--   * [Computer Vision](#python-computer-vision)
   * [Natural Language Processing](#python-natural-language-processing)
   * [General-Purpose Machine Learning](#python-general-purpose-machine-learning)
   * [Data Analysis / Data Visualization](#python-data-analysis--data-visualization)
@@ -429,3 +429,4 @@ if you look it up on the internet it’ll say that it’s algorithms that can le
 
 
 
+ -->
