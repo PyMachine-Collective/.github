@@ -22,12 +22,13 @@ if you look it up on the internet it’ll say that it’s algorithms that can le
   * [Kaggle Competition Source Code](https://github.com/PyMachine-Collective/.github/blob/main/README.md#python-kaggle-competition-source-code)
   * [Reinforcement Learning](https://github.com/PyMachine-Collective/.github/blob/main/README.md#python-reinforcement-learning)
 
+<!-- 
 <img src="https://som.yale.edu/sites/default/files/images/event-image.jpg">
 
 
 
 <a name="python"></a>
-*Special thanks to https://github.com/josephmisiti/awesome-machine-learning/*
+*Special thanks to https://github.com/josephmisiti/awesome-machine-learning/* 
 
 
 <a name="python-computer-vision"></a>
