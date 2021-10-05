@@ -13,14 +13,14 @@ if you look it up on the internet it’ll say that it’s algorithms that can le
 
 ## Resources
   * [types of machine learning](https://towardsdatascience.com/what-are-the-types-of-machine-learning-e2b9e5d1756f)
-  * [Computer Vision](https://github.com/PyMachine-Collective/.github/new/main?readme=1#python-computer-vision)
-  * [Natural Language Processing](https://github.com/PyMachine-Collective/.github/new/main?readme=1#python-natural-language-processing)
-  * [General-Purpose Machine Learning](https://github.com/PyMachine-Collective/.github/new/main?readme=1#python-general-purpose-machine-learning)
-  * [Data Analysis / Data Visualization](https://github.com/PyMachine-Collective/.github/new/main?readme=1#python-data-analysis--data-visualization)
-  * [Misc Scripts / iPython Notebooks / Codebases](https://github.com/PyMachine-Collective/.github/new/main?readme=1#python-misc-scripts--ipython-notebooks--codebases)
-  * [Neural Networks](https://github.com/PyMachine-Collective/.github/new/main?readme=1#python-neural-networks)
-  * [Kaggle Competition Source Code](https://github.com/PyMachine-Collective/.github/new/main?readme=1#python-kaggle-competition-source-code)
-  * [Reinforcement Learning](https://github.com/PyMachine-Collective/.github/new/main?readme=1#python-reinforcement-learning)
+  * [Computer Vision](https://github.com/PyMachine-Collective/.github/blob/main/README.md#python-computer-vision)
+  * [Natural Language Processing](https://github.com/PyMachine-Collective/.github/blob/main/README.md#python-natural-language-processing)
+  * [General-Purpose Machine Learning](https://github.com/PyMachine-Collective/.github/blob/main/README.md#python-general-purpose-machine-learning)
+  * [Data Analysis / Data Visualization](https://github.com/PyMachine-Collective/.github/blob/main/README.md#python-data-analysis--data-visualization)
+  * [Misc Scripts / iPython Notebooks / Codebases](https://github.com/PyMachine-Collective/.github/blob/main/README.md#python-misc-scripts--ipython-notebooks--codebases)
+  * [Neural Networks](https://github.com/PyMachine-Collective/.github/blob/main/README.md#python-neural-networks)
+  * [Kaggle Competition Source Code](https://github.com/PyMachine-Collective/.github/blob/main/README.md#python-kaggle-competition-source-code)
+  * [Reinforcement Learning](https://github.com/PyMachine-Collective/.github/blob/main/README.md#python-reinforcement-learning)
 
 <img src="https://som.yale.edu/sites/default/files/images/event-image.jpg">
 
